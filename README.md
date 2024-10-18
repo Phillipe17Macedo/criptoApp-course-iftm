@@ -17,7 +17,7 @@
 
 - [Expo Go - Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent)
 - [Expo Go - Apple Store](https://apps.apple.com/app/expo-go/id982107779)
-- Criar conta na CoinMarketCap para acesso à API: [Criar conta na CoinMarketCap]([https://coinmarketcap.com/api/](https://coinmarketcap.com/api/))
+- Criar conta na CoinMarketCap para acesso à API: [Criar conta na CoinMarketCap](https://coinmarketcap.com/api/)
 
 ---
 
